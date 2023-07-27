@@ -1,5 +1,5 @@
-C Mini Projects for GitHub
-Welcome to the collection of C mini projects for GitHub! This repository contains a set of small-scale C projects that are perfect for beginners and intermediate programmers looking to enhance their C programming skills. Each project is designed to be self-contained, simple, and can serve as a learning tool to understand various aspects of C programming.
+
+Welcome to the This repository contains a set of small-scale C projects that are perfect for beginners and intermediate programmers looking to enhance their C programming skills. Each project is designed to be self-contained, simple, and can serve as a learning tool to understand various aspects of C programming.
 
 Table of Contents
 calculator
